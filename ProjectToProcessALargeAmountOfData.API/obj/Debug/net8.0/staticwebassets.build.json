@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vI+fB/PS9iuY45AJS4CsSegnzZG7Zwr0ATN/wO3kKhg=",
+  "Source": "ProjectToProcessALargeAmountOfData.API",
+  "BasePath": "_content/ProjectToProcessALargeAmountOfData.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectToProcessALargeAmountOfData.API\\wwwroot",
+      "Source": "ProjectToProcessALargeAmountOfData.API",
+      "ContentRoot": "C:\\Users\\gabri\\Documents\\Projetos\\.net core\\ProjectToProcessALargeAmountOfData\\ProjectToProcessALargeAmountOfData.API\\wwwroot\\",
+      "BasePath": "_content/ProjectToProcessALargeAmountOfData.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

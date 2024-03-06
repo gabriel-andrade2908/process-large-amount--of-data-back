@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwGLZ+i77y8ly7gbucXYEiWn6zSp4y9v1ri5Wl9JJlmlBQwML1RUVO9Flnp+QlNgeIib2iub/Pj7VR67HE3Bzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Documents\\Projetos\\.net core\\ProjectToProcessALargeAmountOfData\\ProjectToProcessALargeAmountOfData.Domain\\ProjectToProcessALargeAmountOfData.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

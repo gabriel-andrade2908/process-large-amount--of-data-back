@@ -1,0 +1,12 @@
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\bin\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.deps.json
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\bin\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.dll
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\bin\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.pdb
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.dll
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\refint\ProjectToProcessALargeAmountOfData.Domain.dll
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ProjectToProcessALargeAmountOfData.Domain.pdb
+C:\Users\gabri\Documents\Projetos\.net core\ProjectToProcessALargeAmountOfData\ProjectToProcessALargeAmountOfData.Domain\obj\Debug\net8.0\ref\ProjectToProcessALargeAmountOfData.Domain.dll
